@@ -13,7 +13,7 @@
 
 
 
-[windows版](https://github.com/mks10001/Detective-CRM/releases/tag/CRM)
+[windows版下载](https://github.com/mks10001/Detective-CRM/releases/tag/CRM)
 </div>
 
 ---
